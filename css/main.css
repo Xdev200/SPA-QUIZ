@@ -1,0 +1,56 @@
+ @font-face
+{
+    font-family: carnas_regular;
+    src:url('../fonts/carnas/carnas_regular.otf');
+}
+
+@font-face
+{
+    font-family: carnas_regular;
+    src:url('../fonts/carnas/carnas_regular.woff');
+}
+body{
+    font-family: carnas_regular;
+}
+#uname-panel{
+    margin:2% 0 0 36% ;
+}
+
+#active{
+    background-color: #009688;
+    color:white;
+}
+
+.myform1,.myform2,.myform3,.myform4,.myform5,#table,#heading,#finish{
+display:none;
+}
+#heading{
+    margin: 0% 0 0 0%;
+}
+
+#question_row{
+    margin: 0 0 0 3%;
+}
+
+#finish{
+    margin: 0% 0 0 0%;
+}
+
+#table{
+    margin: 0 0 0 11%;
+}
+
+#rall,#wall{
+    font-size: 200%;
+}
+
+#toast-container {
+  
+  right: auto !important;
+  top:2.5%;
+  left:65%;
+  
+}
+
+
+
